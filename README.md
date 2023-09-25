@@ -8,7 +8,7 @@ This tutorial guides the implementation of Active Directory within Microsoft Azu
 <h2>Prerequisites</h2>
 
 - [Setup a Subscription and a Resource in Azure for Beginner Labs](https://github.com/BroderickSession/setup-azure-sub-and-resourc/blob/main/README.md)
-- [Create Virtual Machines Within Azure and Observe The Network Topology](https://github.com/bvongpradith/creating-azure-vm)
+- [Create Virtual Machines Within Azure and Observe The Network Topology](https://github.com/BroderickSession/creating-azure-vm)
 
 <h2>Technologies and Enviroments Used</h2>
 
